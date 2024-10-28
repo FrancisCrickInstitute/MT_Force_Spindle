@@ -7,6 +7,11 @@ analyze_buckling.m - loads an example of the digitised microtubules shapes from 
 
 Anylize_all_shapes.m - extracts data from F and G and plots it for all traces
 
+C-TRAP force cruve export.ipynb - extract time, distance between beads and force from C-Trap data recording
+
+C-TRAP pushing pulling force duration finder.ipynb - find positive, negative and zero force data segments in C-trap data
+
+Measuring 3D spindle pole-toploe Distance.txt - macro for measuring spindle pole to pole distance from confocal z-stack images using imagej
 
 For the Cytosim simulations:
 
